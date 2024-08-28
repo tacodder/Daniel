@@ -1,5 +1,5 @@
 # Daniel
-**My Complete Bio 🌍**
+**🌍My Complete Bio **
 
 Welcome to my digital playground! I’m Daniel, a cloud wizard with over 15 years of experience transforming platforms and leading tech revolutions in the telecom and banking sectors. I’ve worked across the globe, from the skyscrapers of New York to the innovative hubs of Europe, helping businesses crush it with cutting-edge cloud solutions.
 
