@@ -24,17 +24,17 @@ I’m on a mission to make waves in the cloud community. That’s why I drop fre
 
 🛠️ **- Tech Toolbox -**
 
-**Cloud Platforms:** AWS ☁️ | Google Cloud 🌐 | Azure 🔷
+**- Cloud Platforms:** AWS ☁️ | Google Cloud 🌐 | Azure 🔷
 
-**Infrastructure as Code:** Terraform 📜 | CloudFormation 🏗️ | Ansible ⚙️
+**- Infrastructure as Code:** Terraform 📜 | CloudFormation 🏗️ | Ansible ⚙️
 
-**Containers & Orchestration:** Docker 🐳 | Kubernetes 🎯
+**- Containers & Orchestration:** Docker 🐳 | Kubernetes 🎯
 
-**Databases:** PostgreSQL 🐘 | MySQL 🐬 | MS-SQL Server 🗄️
+**- Databases:** PostgreSQL 🐘 | MySQL 🐬 | MS-SQL Server 🗄️
 
-**Observability:** Datadog 🐶 | SolarWinds 🌞 | OpsRamp 👁️
+**- Observability:** Datadog 🐶 | SolarWinds 🌞 | OpsRamp 👁️
 
-**Languages:** Python 🐍 | Bash 🖥️ | PowerShell ⚡ | C 💻  (always up for learning more!)
+**- Languages:** Python 🐍 | Bash 🖥️ | PowerShell ⚡ | C 💻  (always up for learning more!)
 
 🚧 **- What’s Brewing in the Repo? -**
 
