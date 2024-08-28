@@ -76,8 +76,12 @@ I’m on a mission to make waves in the cloud community. That’s why I drop fre
 
 - Google Cloud Associate Certified 📜
 
-- Microsoft Azure Fundamentals 📜
+- FinOps Certified Practitioner 📜
+
+- AWS Partner: Cloud Economics Accreditation 📜
 
 - VMware Certified Profesional – Data Center Virtualization 📜
+
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals 📜
 
 
