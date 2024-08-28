@@ -62,13 +62,13 @@ Advanced FinOps Strategies 💡
 
 🌐 **- Language Skills -**
 
-**Spanish:** Native speaker 🇪🇸
-
 **English:** Professional proficiency 🇬🇧
+
+**Spanish:** Native speaker 🇪🇸
 
 **German:** B1 proficiency 🇩🇪
 
-**![image](https://github.com/user-attachments/assets/5457cdff-0464-4767-89ec-6f89d00ee7af) Danish:** On my way to fluency 🇩🇰 (Jeg lærer dansk, og jeg elsker det!)
+**Danish:** On my way to fluency 🇩🇰 (Jeg lærer dansk, og jeg elsker det!)
 
 **Dutch:** Tackling Dutch with passion 🇳🇱 (Ik leer Nederlands, en het gaat goed!)
 
