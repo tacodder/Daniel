@@ -48,9 +48,9 @@ I’m on a mission to make waves in the cloud community. That’s why I drop fre
 
 🤝 **- Let’s Make Some Magic! -**
 
-Whether you’re a recruiter, a fellow techie, or someone who just loves cloud talk—let’s connect! I’m always down for a chat, a brainstorm session, or a new project.
+* Whether you’re a recruiter, a fellow techie, or someone who just loves cloud talk—let’s connect! I’m always down for a chat, a brainstorm session, or a new project.
 
-**LinkedIn:** 🔗 (https://www.linkedin.com/in/daniel-rodriguez-riano)
+* **LinkedIn:** 🔗 (https://www.linkedin.com/in/daniel-rodriguez-riano)
 
 📚 **- Currently Exploring -**
 
