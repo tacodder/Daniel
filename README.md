@@ -38,13 +38,13 @@ I’m on a mission to make waves in the cloud community. That’s why I drop fre
 
 🚧 **- What’s Brewing in the Repo? -**
 
-** 💡 Cloud Cost Analyzer:** A Python-powered tool that dives deep into AWS Cost Explorer, helping you slice those cloud expenses.
+**   💡 Cloud Cost Analyzer:** A Python-powered tool that dives deep into AWS Cost Explorer, helping you slice those cloud expenses.
 
-** 🧰 Hybrid Cloud Templates:** Plug-and-play templates for deploying robust hybrid architectures on AWS and GCP.
+**   🧰 Hybrid Cloud Templates:** Plug-and-play templates for deploying robust hybrid architectures on AWS and GCP.
 
-** 📈 K8s Auto-Scaler:** A custom Kubernetes auto-scaler using Prometheus and Grafana, because why not?
+**   📈 K8s Auto-Scaler:** A custom Kubernetes auto-scaler using Prometheus and Grafana, because why not?
 
-** 🤖 ChatOps Bot:** A Slack-integrated bot for monitoring and managing cloud resources on the fly.
+**   🤖 ChatOps Bot:** A Slack-integrated bot for monitoring and managing cloud resources on the fly.
 
 🤝 **- Let’s Make Some Magic! -**
 
@@ -62,15 +62,15 @@ Whether you’re a recruiter, a fellow techie, or someone who just loves cloud t
 
 🌐 **- Language Skills -**
 
-**English:** Professional proficiency 🇬🇧
+**- English:** Professional proficiency 🇬🇧
 
-**Spanish/Español:** Native speaker 🇪🇸
+**- Spanish/Español:** Native speaker 🇪🇸
 
-**German/Deutsch:** Almost B1 proficiency 🇩🇪
+**- German/Deutsch:** Almost B1 proficiency 🇩🇪
 
-**Danish/Dansk:** On my way to fluency 🇩🇰 (Jeg lærer dansk, og jeg elsker det!)
+**- Danish/Dansk:** On my way to fluency 🇩🇰 (Jeg lærer dansk, og jeg elsker det!)
 
-**Dutch/Netherlands:** Tackling Dutch with passion 🇳🇱 (Ik leer Nederlands, en het gaat goed!)
+**- Dutch/Netherlands:** Tackling Dutch with passion 🇳🇱 (Ik leer Nederlands, en het gaat goed!)
 
 🏅 **- Credentials That Back It Up -**
 
