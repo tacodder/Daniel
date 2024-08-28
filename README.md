@@ -62,15 +62,11 @@ I’m on a mission to make waves in the cloud community. That’s why I drop fre
 
 🌐 **- Language Skills -**
 
-**- English:** Professional proficiency 🇬🇧
+* **English:** Professional proficiency 🇬🇧    * **Spanish/Español:** Native speaker 🇪🇸
 
-**- Spanish/Español:** Native speaker 🇪🇸
+* **German/Deutsch:** Almost B1 proficiency 🇩🇪    * **Danish/Dansk:** On my way to fluency 🇩🇰 (Jeg lærer dansk, og jeg elsker det!)
 
-**- German/Deutsch:** Almost B1 proficiency 🇩🇪
-
-**- Danish/Dansk:** On my way to fluency 🇩🇰 (Jeg lærer dansk, og jeg elsker det!)
-
-**- Dutch/Netherlands:** Tackling Dutch with passion 🇳🇱 (Ik leer Nederlands, en het gaat goed!)
+* **Dutch/Netherlands:** Tackling Dutch with passion 🇳🇱 (Ik leer Nederlands, en het gaat goed!)
 
 🏅 **- Credentials That Back It Up -**
 
