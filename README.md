@@ -20,17 +20,18 @@ I’ve collaborated with brilliant minds across the US, Europe, and Asia, bringi
 I’m on a mission to make waves in the cloud community. That’s why I drop fresh code, tools, or cloud-based projects here twice a day. From slick scripts to full-blown cloud solutions, it’s all about keeping the momentum going and sharing the love for tech.
 
 🛠️ **- Toolbox -**
-Cloud Platforms: AWS, Google Cloud, Azure
 
-Infrastructure as Code: Terraform, CloudFormation, Ansible
+**Cloud Platforms:** AWS, Google Cloud, Azure
 
-Containers & Orchestration: Docker, Kubernetes
+**Infrastructure as Code:** Terraform, CloudFormation, Ansible
 
-Databases: PostgreSQL, MySQL, MS-SQL Server
+**Containers & Orchestration:** Docker, Kubernetes
 
-Observability: Datadog, SolarWinds, OpsRamp
+**Databases:** PostgreSQL, MySQL, MS-SQL Server
 
-Languages: Python, Bash, PowerShell, C (always up for learning more!)
+**Observability**: Datadog, SolarWinds, OpsRamp
+
+**Languages:** Python, Bash, PowerShell, C (always up for learning more!)
 
 🚧 **- What’s Brewing in the Repo? -**
 
