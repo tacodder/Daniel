@@ -1,5 +1,6 @@
 # Daniel
 **My Complete Bio 🌍**
+
 Welcome to my digital playground! I’m Daniel, a cloud wizard with over 15 years of experience transforming platforms and leading tech revolutions in the telecom and banking sectors. I’ve worked across the globe, from the skyscrapers of New York to the innovative hubs of Europe, helping businesses crush it with cutting-edge cloud solutions.
 
 💻 **- What’s My Jam? -**
@@ -22,8 +23,6 @@ I’ve collaborated with brilliant minds across the US, Europe, and Asia, bringi
 I’m on a mission to make waves in the cloud community. That’s why I drop fresh code, tools, or cloud-based projects here twice a day. From slick scripts to full-blown cloud solutions, it’s all about keeping the momentum going and sharing the love for tech.
 
 🛠️ **- Tech Toolbox -**
-
-**Cloud Platforms:** AWS, Google Cloud, Azure
 
 **Cloud Platforms:** AWS ☁️ | Google Cloud 🌐 | Azure 🔷
 
@@ -51,7 +50,7 @@ I’m on a mission to make waves in the cloud community. That’s why I drop fre
 
 Whether you’re a recruiter, a fellow techie, or someone who just loves cloud talk—let’s connect! I’m always down for a chat, a brainstorm session, or a new project.
 
-**LinkedIn:**  Daniel Rodríguez 🔗 (https://www.linkedin.com/in/daniel-rodriguez-riano)
+**LinkedIn:** 🔗 (https://www.linkedin.com/in/daniel-rodriguez-riano)
 
 📚 **- Currently Exploring -**
 
