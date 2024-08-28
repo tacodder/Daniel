@@ -38,13 +38,13 @@ I’m on a mission to make waves in the cloud community. That’s why I drop fre
 
 🚧 **- What’s Brewing in the Repo? -**
 
-**   💡 Cloud Cost Analyzer:** A Python-powered tool that dives deep into AWS Cost Explorer, helping you slice those cloud expenses.
+**💡 Cloud Cost Analyzer:** A Python-powered tool that dives deep into AWS Cost Explorer, helping you slice those cloud expenses.
 
-**   🧰 Hybrid Cloud Templates:** Plug-and-play templates for deploying robust hybrid architectures on AWS and GCP.
+**🧰 Hybrid Cloud Templates:** Plug-and-play templates for deploying robust hybrid architectures on AWS and GCP.
 
-**   📈 K8s Auto-Scaler:** A custom Kubernetes auto-scaler using Prometheus and Grafana, because why not?
+**📈 K8s Auto-Scaler:** A custom Kubernetes auto-scaler using Prometheus and Grafana, because why not?
 
-**   🤖 ChatOps Bot:** A Slack-integrated bot for monitoring and managing cloud resources on the fly.
+**🤖 ChatOps Bot:** A Slack-integrated bot for monitoring and managing cloud resources on the fly.
 
 🤝 **- Let’s Make Some Magic! -**
 
