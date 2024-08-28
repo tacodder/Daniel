@@ -68,8 +68,7 @@ Advanced FinOps Strategies 💡
 
 **German:** B1 proficiency 🇩🇪
 
-**![image](https://github.com/user-attachments/assets/970dca83-22c6-4097-a2b3-31a46ac63e94)
-Danish:** On my way to fluency 🇩🇰 (Jeg lærer dansk, og jeg elsker det!)
+**![image](https://github.com/user-attachments/assets/5457cdff-0464-4767-89ec-6f89d00ee7af) Danish:** On my way to fluency 🇩🇰 (Jeg lærer dansk, og jeg elsker det!)
 
 **Dutch:** Tackling Dutch with passion 🇳🇱 (Ik leer Nederlands, en het gaat goed!)
 
