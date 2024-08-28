@@ -9,8 +9,10 @@ I create killer hybrid cloud solutions that blend the best of AWS, GCP, and Azur
 
 💰 **FinOps Guru:**
 Keeping the cloud budget in check while maximizing performance? That’s my kind of puzzle. I integrate FinOps into cloud strategies to make sure every cent counts.
+
 🤖 **DevOps & Automation Nerd:**
 Terraform, Ansible, Jenkins, Kubernetes—these are my toys. I love automating the mundane so teams can focus on what really matters: innovation.
+
 🌍 **Global Citizen, Tech Nomad**
 I’ve collaborated with brilliant minds across the US, Europe, and Asia, bringing together diverse perspectives to solve complex problems. My European work ethic meets a global mindset, making me adaptable and ready for any challenge.
 
@@ -19,16 +21,26 @@ I’m on a mission to make waves in the cloud community. That’s why I drop fre
 
 🛠️ **- Toolbox -**
 Cloud Platforms: AWS, Google Cloud, Azure
+
 Infrastructure as Code: Terraform, CloudFormation, Ansible
+
 Containers & Orchestration: Docker, Kubernetes
+
 Databases: PostgreSQL, MySQL, MS-SQL Server
+
 Observability: Datadog, SolarWinds, OpsRamp
+
 Languages: Python, Bash, PowerShell, C (always up for learning more!)
+
 🏅 **- Credentials That Back It Up -**
 AWS Certified Solutions Architect – Associate
+
 Google Cloud Associate Certified
+
 Microsoft Azure Fundamentals
+
 VMware Certified Pro – Data Center Virtualization
+
 🚧 **- What’s Brewing in the Repo? -**
 Cloud Cost Analyzer: A Python-powered tool that dives deep into AWS Cost Explorer, helping you slice those cloud expenses.
 Hybrid Cloud Templates: Plug-and-play templates for deploying robust hybrid architectures on AWS and GCP.
