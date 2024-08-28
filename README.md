@@ -5,7 +5,7 @@
 
 💻 **- What’s My Jam? -**
 
-🌩️ **Hybrid Cloud Mastery:**
+* 🌩️ **Hybrid Cloud Mastery:**
 I create killer hybrid cloud solutions that blend the best of AWS, GCP, and Azure. Think of me as your cloud mixologist, crafting architectures that are secure, scalable, and oh-so-efficient.
 
 🤖 **DevOps & Automation Nerd:**
