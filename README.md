@@ -60,6 +60,8 @@ I’m on a mission to make waves in the cloud community. That’s why I drop fre
 
 - Advanced FinOps Strategies 💡
 
+- Artificial Intelligence + DataWorld 📈
+
 🌐 **- Language Skills -**
 
 | Language            | Proficiency Level                                | Flag  |Motivation                                        |
