@@ -77,3 +77,10 @@ I’m on a mission to make waves in the cloud community. That’s why I drop fre
 - Microsoft Azure Fundamentals 📜
 
 - VMware Certified Profesional – Data Center Virtualization 📜
+
+| Language | Flag | Proficiency Level |
+|----------|------|-------------------|
+| Spanish  | 🇪🇸  | Native            |
+| English  | 🇬🇧  | Fluent            |
+| German   | 🇩🇪  | Intermediate (A2) |
+| Dutch    | 🇳🇱  | Conversational     |
