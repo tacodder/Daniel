@@ -33,21 +33,36 @@ Observability: Datadog, SolarWinds, OpsRamp
 Languages: Python, Bash, PowerShell, C (always up for learning more!)
 
 🚧 **- What’s Brewing in the Repo? -**
-Cloud Cost Analyzer: A Python-powered tool that dives deep into AWS Cost Explorer, helping you slice those cloud expenses.
 
-Hybrid Cloud Templates: Plug-and-play templates for deploying robust hybrid architectures on AWS and GCP.
+**Cloud Cost Analyzer:** A Python-powered tool that dives deep into AWS Cost Explorer, helping you slice those cloud expenses.
 
-K8s Auto-Scaler: A custom Kubernetes auto-scaler using Prometheus and Grafana, because why not?
+**Hybrid Cloud Templates:** Plug-and-play templates for deploying robust hybrid architectures on AWS and GCP.
+
+**K8s Auto-Scaler:** A custom Kubernetes auto-scaler using Prometheus and Grafana, because why not?
 
 🤝 **- Let’s Make Some Magic! -**
+
 Whether you’re a recruiter, a fellow techie, or someone who just loves cloud talk—let’s connect! I’m always down for a chat, a brainstorm session, or a new project.
 
 
 🏅 **- Credentials That Back It Up -**
+
 AWS Certified Solutions Architect – Associate
 
 Google Cloud Associate Certified
 
 Microsoft Azure Fundamentals
 
-VMware Certified Pro – Data Center Virtualization
+VMware Certified Profesional – Data Center Virtualization
+
+🌐 **- Language Skills -**
+
+**Spanish:** Native speaker 🇪🇸
+
+**English:** Professional proficiency 🇬🇧
+
+**German:** B1 proficiency 🇩🇪
+
+**Danish:** On my way to fluency 🇩🇰 (Jeg lærer dansk, og jeg elsker det!)
+
+**Dutch:** Tackling Dutch with passion 🇳🇱 (Ik leer Nederlands, en het gaat goed!)
