@@ -1,23 +1,23 @@
 # Daniel
-My Complete Bio 🌍
+**My Complete Bio 🌍**
 Welcome to my digital playground! I’m Daniel, a cloud wizard with over 15 years of experience transforming platforms and leading tech revolutions in the telecom and banking sectors. I’ve worked across the globe, from the skyscrapers of New York to the innovative hubs of Europe, helping businesses crush it with cutting-edge cloud solutions.
 
-💻 What’s My Jam?
-🌩️ Hybrid Cloud Mastery: I create killer hybrid cloud solutions that blend the best of AWS, GCP, and Azure. Think of me as your cloud mixologist, crafting architectures that are secure, scalable, and oh-so-efficient.
-💰 FinOps Guru: Keeping the cloud budget in check while maximizing performance? That’s my kind of puzzle. I integrate FinOps into cloud strategies to make sure every cent counts.
-🤖 DevOps & Automation Nerd: Terraform, Ansible, Jenkins, Kubernetes—these are my toys. I love automating the mundane so teams can focus on what really matters: innovation.
-🌍 Global Citizen, Tech Nomad
+💻 **- What’s My Jam? -**
+🌩️ **Hybrid Cloud Mastery:** I create killer hybrid cloud solutions that blend the best of AWS, GCP, and Azure. Think of me as your cloud mixologist, crafting architectures that are secure, scalable, and oh-so-efficient.
+💰 **FinOps Guru:** Keeping the cloud budget in check while maximizing performance? That’s my kind of puzzle. I integrate FinOps into cloud strategies to make sure every cent counts.
+🤖 **DevOps & Automation Nerd:** Terraform, Ansible, Jenkins, Kubernetes—these are my toys. I love automating the mundane so teams can focus on what really matters: innovation.
+🌍 **Global Citizen, Tech Nomad**
 I’ve collaborated with brilliant minds across the US, Europe, and Asia, bringing together diverse perspectives to solve complex problems. My European work ethic meets a global mindset, making me adaptable and ready for any challenge.
 
-🎯 Daily Dose of Innovation
+🎯 **- Daily Dose of Innovation - **
 I’m on a mission to make waves in the cloud community. That’s why I drop fresh code, tools, or cloud-based projects here twice a day. From slick scripts to full-blown cloud solutions, it’s all about keeping the momentum going and sharing the love for tech.
 
-🛠️ Toolbox
+🛠️ **- Toolbox -**
 Cloud Platforms: AWS, Google Cloud, Azure
 Infrastructure as Code: Terraform, CloudFormation, Ansible
 Containers & Orchestration: Docker, Kubernetes
 Databases: PostgreSQL, MySQL, MS-SQL Server
-Monitoring & Management: Datadog, SolarWinds, BMC TrueSight
+Observability: Datadog, SolarWinds, OpsRamp
 Languages: Python, Bash, PowerShell, C (always up for learning more!)
 🏅 Credentials That Back It Up
 AWS Certified Solutions Architect – Associate
