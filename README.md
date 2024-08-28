@@ -54,30 +54,30 @@ Whether you’re a recruiter, a fellow techie, or someone who just loves cloud t
 
 📚 **- Currently Exploring -**
 
-Machine Learning in Cloud Environments 🤖
+- Machine Learning in Cloud Environments 🤖
 
-Serverless Architectures ⚡
+- Serverless Architectures ⚡
 
-Advanced FinOps Strategies 💡
+- Advanced FinOps Strategies 💡
 
 🌐 **- Language Skills -**
 
 **English:** Professional proficiency 🇬🇧
 
-**Spanish:** Native speaker 🇪🇸
+**Spanish/Español:** Native speaker 🇪🇸
 
-**German:** B1 proficiency 🇩🇪
+**German/Deutsch:** Almost B1 proficiency 🇩🇪
 
-**Danish:** On my way to fluency 🇩🇰 (Jeg lærer dansk, og jeg elsker det!)
+**Danish/Dansk:** On my way to fluency 🇩🇰 (Jeg lærer dansk, og jeg elsker det!)
 
-**Dutch:** Tackling Dutch with passion 🇳🇱 (Ik leer Nederlands, en het gaat goed!)
+**Dutch/Netherlands:** Tackling Dutch with passion 🇳🇱 (Ik leer Nederlands, en het gaat goed!)
 
 🏅 **- Credentials That Back It Up -**
 
-AWS Certified Solutions Architect – Associate 📜
+- AWS Certified Solutions Architect – Associate 📜
 
-Google Cloud Associate Certified 📜
+- Google Cloud Associate Certified 📜
 
-Microsoft Azure Fundamentals 📜
+- Microsoft Azure Fundamentals 📜
 
-VMware Certified Profesional – Data Center Virtualization 📜
+- VMware Certified Profesional – Data Center Virtualization 📜
